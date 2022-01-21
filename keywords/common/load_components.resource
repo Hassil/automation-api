@@ -1,7 +1,7 @@
 ***Settings***
 
 Library   RequestsLibrary
-#Library   JSONLibrary
+Library   JSONLibrary
 Library   Collections
 Library    ../../libraries/Excel.py
 Library    OperatingSystem
@@ -9,4 +9,8 @@ Library    OperatingSystem
 Resource   common.resource
 Resource   Excel.resource
 Resource   ../business/github/get_request_gitHub.resource
-Resource   ../../variables/business/peticiones_github.resource
+Resource   ../business/regres/request_regres.resource
+Resource   ../business/testingworld/requests_testingworld.resource
+Resource   ../../variables/business/variables_github.resource
+Resource   ../../variables/business/variables_regres.resource
+Resource   ../../variables/business/variables_testingworld.resource
